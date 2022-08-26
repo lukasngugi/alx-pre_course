@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 echo "ALX School is so cool!"
+||||||| 5d6fca1
+echo "ALX"
+=======
+echo "ALX School"
+>>>>>>> update_script
